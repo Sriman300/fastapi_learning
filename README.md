@@ -1,4 +1,4 @@
-# Fastapi_learning
+# fastapi_learning
 Learning and practising fastapi python web framework 
 # FastAPI Learning 🚀
 ## About
